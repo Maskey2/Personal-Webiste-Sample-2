@@ -54,7 +54,8 @@ padding: 300px;
 	padding: 20px;
 }
 .awards{
-	padding: 20px 0px 20px 0px;
+	padding: 20px 0px 20px 0px;	
+	text-align: center;
 }
 .awards-img{
 	width: 100%;
